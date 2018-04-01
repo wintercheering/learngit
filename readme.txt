@@ -6,3 +6,4 @@ Test for the work area.
 Git track changes.
 Git track changes of files.
 change 1
+Change 2
